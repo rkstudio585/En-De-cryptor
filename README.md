@@ -1,7 +1,10 @@
 # En-De-cryptor
+- encrypt Text And Massage Etc.
+    - verify Easley.
+
 ---
 ![229292](logo.svg)
-# Encryptor/Decryptor Tool
+# Encryptor/Decryptor Tool for encrypt Text And Massage Etc.
 
 ## Overview
 
